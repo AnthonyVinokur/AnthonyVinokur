@@ -43,3 +43,11 @@ A reference implementation for evidence integrity, verification, trust decisions
 Why I decided to bring my software engineering and test automation experience into AI.
 
 [Read the article →](articles/from-test-automation-to-ai-verification.md)
+
+### Course_Python_API
+
+A Python API testing project focused on automated validation of REST APIs.
+
+**Focus:** API requests, response validation, status codes, JSON payloads, authentication, negative testing, and automated regression coverage.
+
+[View Course_Python_API](https://github.com/AnthonyVinokur/Course_Python_API)
