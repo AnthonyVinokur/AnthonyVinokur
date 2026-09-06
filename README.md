@@ -1,6 +1,6 @@
 # Anthony Vinokur
 
-## AI Quality Engineering • AI Verification • Test Automation
+## AI Verification • Quality Engineering • Test Automation
 
 I build systems that help engineering teams answer a critical question:
 
@@ -10,8 +10,6 @@ My background is in software engineering and test automation, with experience in
 
 Today I am applying that experience to AI verification, regression testing, evidence generation, and production quality gates.
 
----
-
 ## Current Focus
 
 - AI application verification
@@ -19,28 +17,29 @@ Today I am applying that experience to AI verification, regression testing, evid
 - Prompt regression testing
 - Evidence-driven quality engineering
 - AI quality gates
-- Python
-- Pytest
-- Playwright
+- Python / Pytest / Playwright
 - CI/CD
 
----
-
-## Featured Projects
+- ## Featured Projects
 
 ### AI Test Lab
 
 A framework for repeatable verification of AI applications.
 
-```text
-Dataset
-   ↓
-Model
-   ↓
-Evaluation
-   ↓
-Metrics
-   ↓
-Evidence
-   ↓
-Quality Gate
+**Focus:** model evaluation, prompt regression, metrics, evidence, and quality gates.
+
+[View AI Test Lab](https://github.com/AnthonyVinokur/AI-Test-Lab)
+
+### Aquagear Reference App
+
+A reference implementation for evidence integrity, verification, trust decisions, and auditable engineering workflows.
+
+[View Aquagear Reference App](https://github.com/AnthonyVinokur/Aquagear-Reference-App)
+
+## Technical Writing
+
+### From Test Automation to AI Verification
+
+Why I decided to bring my software engineering and test automation experience into AI.
+
+[Read the article →](articles/from-test-automation-to-ai-verification.md)
